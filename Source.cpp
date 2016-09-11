@@ -1,7 +1,5 @@
 
 # include <iostream>                    
-# define kol 30                               
-# define strk 30  
 
 int r;
 using namespace std;
