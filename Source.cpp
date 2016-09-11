@@ -4,14 +4,7 @@
 int r;
 using namespace std;
 
-struct bk
-{
-	char name[kol];
-	char type[kol];
-	int number;
-	int sum;
-	char date[10];
-};
+
 struct bk bank[strk];
 
 struct bk bad;
